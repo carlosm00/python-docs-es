@@ -11,8 +11,8 @@ msgstr ""
 "Project-Id-Version: Python 3.8\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-10-12 19:43+0200\n"
-"PO-Revision-Date: 2023-10-13 11:53-0300\n"
-"Last-Translator: Alfonso Areiza Guerra <alfareiza@gmail.com>\n"
+"PO-Revision-Date: 2024-02-02 00:45+0100\n"
+"Last-Translator: Carlos Mena Pérez <@carlosm00>\n"
 "Language-Team: python-doc-es\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
@@ -20,7 +20,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Generated-By: Babel 2.13.0\n"
-"X-Generator: Poedit 3.4\n"
+"X-Generator: Poedit 3.4.2\n"
 
 #: ../Doc/library/string.rst:2
 msgid ":mod:`string` --- Common string operations"
@@ -1535,42 +1535,42 @@ msgstr ""
 
 #: ../Doc/library/string.rst:195
 msgid "{} (curly brackets)"
-msgstr "{} (paréntesis de llave)"
+msgstr "{} (curly brackets)"
 
 #: ../Doc/library/string.rst:195 ../Doc/library/string.rst:335
 #: ../Doc/library/string.rst:367 ../Doc/library/string.rst:386
 #: ../Doc/library/string.rst:395 ../Doc/library/string.rst:409
 #: ../Doc/library/string.rst:418
 msgid "in string formatting"
-msgstr "en formato de cadena de caracteres"
+msgstr "in string formatting"
 
 #: ../Doc/library/string.rst:195
 msgid ". (dot)"
-msgstr ". (punto)"
+msgstr ". (dot)"
 
 #: ../Doc/library/string.rst:195
 msgid "[] (square brackets)"
-msgstr "[] (paréntesis corchete o rectos)"
+msgstr "[] (square brackets)"
 
 #: ../Doc/library/string.rst:195
 msgid "! (exclamation)"
-msgstr "! (exclamación)"
+msgstr "! (exclamation)"
 
 #: ../Doc/library/string.rst:195
 msgid ": (colon)"
-msgstr ": (dos puntos)"
+msgstr ": (colon)"
 
 #: ../Doc/library/string.rst:335
 msgid "< (less)"
-msgstr "< (menor que)"
+msgstr "< (less)"
 
 #: ../Doc/library/string.rst:335
 msgid "> (greater)"
-msgstr "> (mayor que)"
+msgstr "> (greater)"
 
 #: ../Doc/library/string.rst:335
 msgid "= (equals)"
-msgstr "= (igual)"
+msgstr "= (equals)"
 
 #: ../Doc/library/string.rst:335
 msgid "^ (caret)"
@@ -1578,11 +1578,11 @@ msgstr "^ (caret)"
 
 #: ../Doc/library/string.rst:367
 msgid "+ (plus)"
-msgstr "+ (más)"
+msgstr "+ (plus)"
 
 #: ../Doc/library/string.rst:367
 msgid "- (minus)"
-msgstr "- (menos)"
+msgstr "- (minus)"
 
 #: ../Doc/library/string.rst:386
 msgid "z"
@@ -1590,20 +1590,20 @@ msgstr "z"
 
 #: ../Doc/library/string.rst:395
 msgid "# (hash)"
-msgstr "# (numeral o almohadilla)"
+msgstr "# (hash)"
 
 #: ../Doc/library/string.rst:409
 msgid ", (comma)"
-msgstr ", (coma)"
+msgstr ", (comma)"
 
 #: ../Doc/library/string.rst:418
 msgid "_ (underscore)"
-msgstr "_ (guion bajo)"
+msgstr "_ (underscore)"
 
 #: ../Doc/library/string.rst:746
 msgid "$ (dollar)"
-msgstr "$ (signo dólar)"
+msgstr "$ (dollar)"
 
 #: ../Doc/library/string.rst:746
 msgid "in template strings"
-msgstr "en plantillas de cadenas de caracteres"
+msgstr "in template strings"
